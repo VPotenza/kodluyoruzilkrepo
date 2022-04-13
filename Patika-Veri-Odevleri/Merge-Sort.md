@@ -19,3 +19,7 @@
 ### 2. Sorunun Cevabı ###  
 
 **O(nLogn)**
+
+---
+
+https://app.patika.dev/anbarci

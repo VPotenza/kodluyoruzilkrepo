@@ -39,3 +39,5 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 **Sıradaki bakılan en küçük sayı doğru yerinde ise o sayı bir atlanarak işlem yapılır**
 
 ---
+
+https://app.patika.dev/anbarci
